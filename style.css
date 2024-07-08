@@ -37,9 +37,6 @@
     font-weight: 700;
     line-height: 21.79px;
 }
-.header__ul{
-    display: flex;
-}
 .navbar{
     display: flex;
     justify-content: space-between;
